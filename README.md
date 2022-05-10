@@ -8,6 +8,7 @@ I enjoy building business solutions on Google's Cloud Platform. I like to sling 
 5. SQL and NOSQL databases
 6. Google Cloud Platform services
 7. Flutter
+8. Stellar Payments Blockchain
 
 ... learning Web3 and gettings my arms dirty to the elbow!
 
