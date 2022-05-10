@@ -3,6 +3,7 @@
 
 ### Click [](https://www.credential.net/639a436a-58dd-4f27-8720-31bd79836c93?key=449eefa5bc8a3bb4cb29c8cba04acfa62d698b52f7afcbe2209fbdb31f4b3df3&record_view=true
 ) to verify the Cloud Architect Certification
+My favorite search engine is [verify the Cloud Architect Certification](https://www.credential.net/639a436a-58dd-4f27-8720-31bd79836c93?key=449eefa5bc8a3bb4cb29c8cba04acfa62d698b52f7afcbe2209fbdb31f4b3df3).
 
 
 ### Click the link below to verify the Cloud Data Engineer Certification
