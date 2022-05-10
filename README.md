@@ -7,6 +7,7 @@ I enjoy building business solutions on the Google Cloud Platform. I like to slin
 4. Springboot
 5. SQL and NOSQL databases
 6. Google Cloud Platform services
+7. Flutter
 
 ## My GCP Professional Cloud Certifications 👋 👋
 <img width="594" alt="Screen Shot 2022-05-10 at 07 27 12" src="https://user-images.githubusercontent.com/343710/167548728-eb8ebb52-04dc-42ef-9a10-febee82cb705.png">
