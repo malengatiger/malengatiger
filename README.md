@@ -1,4 +1,5 @@
 ## My GCP Professional Cloud Architect Certification 👋
+<img width="607" alt="Screen Shot 2022-05-10 at 06 37 39" src="https://user-images.githubusercontent.com/343710/167545637-96d80712-6afe-45a8-824e-635371729bd3.png">
 
 ![GCP Architect Certificate](https://user-images.githubusercontent.com/343710/165311191-ee15bdbe-bbae-4dfc-8996-be038b8a220c.png)
 
