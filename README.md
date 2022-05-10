@@ -10,7 +10,7 @@ I enjoy building business solutions on Google's Cloud Platform. I like to sling 
 7. Flutter with Firebase
 8. Stellar Payments Blockchain
 
-🍎 ... learning Web3 and gettings my arms dirty to the elbow! 🍎
+🍎 ... learning Web3 and gettings my arms dirty right up to the elbow! 🍎
 
 ## My GCP Professional Cloud Certifications 👋 👋
 <img width="594" alt="Screen Shot 2022-05-10 at 07 27 12" src="https://user-images.githubusercontent.com/343710/167548728-eb8ebb52-04dc-42ef-9a10-febee82cb705.png">
