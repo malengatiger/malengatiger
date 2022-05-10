@@ -1,4 +1,4 @@
-I enjoy building business solutions on the Google Cloud Platform. I like to sling microservices, databases, data pipelines and data warehouses to construct good apps!
+I enjoy building business solutions on Google's Cloud Platform. I like to sling microservices, databases, data pipelines and data warehouses to construct good apps!
 
 ## My skills and experience include the following:
 1. Java
