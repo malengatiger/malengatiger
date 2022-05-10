@@ -7,7 +7,5 @@
 
 
 ### Click the link below to verify the Cloud Data Engineer Certification
-<https://www.credential.net/5e605a5b-4b1c-4380-8024-deb34f975f86?key=6714f2885cf5bd5d43f2779db3e99d80c5db226942292c9392489a702e9664dd#gs.101wo07>
-
-
+[Verify the Cloud Data Engineer Certification](https://www.credential.net/5e605a5b-4b1c-4380-8024-deb34f975f86?key=6714f2885cf5bd5d43f2779db3e99d80c5db226942292c9392489a702e9664dd#gs.101v3ak).
 
