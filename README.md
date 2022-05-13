@@ -14,7 +14,7 @@ I enjoy building business solutions on Google's Cloud Platform. I like to sling 
 🍎 ... learning Web3 and getting my arms dirty right up to the elbows! 🍎
 
 ## My GCP Professional Cloud Certifications 👋 👋
-[Check them out here](https://www.credential.net/profile/aubreymalabie28641/wallet#gs.0jed0y)
+[Check out the credentials here](https://www.credential.net/profile/aubreymalabie28641/wallet#gs.0jed0y)
 
 
 <img width="594" alt="Screen Shot 2022-05-10 at 07 27 12" src="https://user-images.githubusercontent.com/343710/167548728-eb8ebb52-04dc-42ef-9a10-febee82cb705.png">
