@@ -6,10 +6,9 @@ I enjoy building business solutions on Google's Cloud Platform. I like to sling 
 3. NOSQL Databases (MongoDB, Cloud Firestore, BigTable)
 4. SQL Databses (MySQl, Postgres, Cloud SQL)
 5. Flutter with Firebase
-6. Native Android and iOS
-7. Stellar Payments Blockchain
-8. GCP (PubSub, Dataflow, BigQuery, Kubernetes, MicroServics, Cloud Functions etc.)
-9. Leading, communicating, mentoring and general baby kissing
+6. Stellar Payments Blockchain
+7. GCP (PubSub, Dataflow, BigQuery, Kubernetes, MicroServics, Cloud Functions etc.)
+8. Leading, communicating, mentoring and general baby kissing
 
 🍎 ... learning Web3 and getting my arms dirty right up to the elbows! 🍎
 
