@@ -1,15 +1,15 @@
 I enjoy building business solutions on Google's Cloud Platform. I like to sling microservices, databases, data pipelines and data warehouses to design and construct good apps and feed machine learning systems!
 
 ## My skills and experience include the following:
-1. Google Cloud Platform services
-2. Java
-3. Springboot 
-4. NodeJS
-5. TypeScript/JavaScript
-6. SQL and NOSQL databases
-7. Google Cloud Platform services
-8. Flutter with Firebase
-9. Stellar Payments Blockchain
+1. Springboot with Java
+2. NodeJS with TypeScript/JavaScript
+3. NOSQL Databases (MongoDB, Cloud Firestore, BigTable)
+4. SQL Databses (MySQl, Postgres, Cloud SQL)
+5. Flutter with Firebase
+6. Native Android and iOS
+7. Stellar Payments Blockchain
+8. GCP (PubSub, Dataflow, BigQuery, Kubernetes, MicroServics, Cloud Functions etc.)
+9. Leading, communicating, mentoring and general baby kissing
 
 🍎 ... learning Web3 and getting my arms dirty right up to the elbows! 🍎
 
