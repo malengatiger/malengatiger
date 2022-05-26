@@ -3,12 +3,13 @@ I enjoy building business solutions on Google's Cloud Platform. I like to sling 
 ## My skills and experience include the following:
 1. Springboot with Java
 2. NodeJS with TypeScript/JavaScript
-3. NOSQL Databases (MongoDB, Cloud Firestore, BigTable)
+3. NOSQL Databases (MongoDB, Cloud Firestore, BigTable, DynamoDB)
 4. SQL Databses (MySQl, Postgres, Cloud SQL)
 5. Flutter with Firebase
 6. Enterprise Blockchains (Corda, Stellar)
 7. GCP (PubSub, Dataflow, BigQuery, Kubernetes, MicroServics, Cloud Functions etc.)
-8. Leading, communicating, mentoring and general baby kissing
+8. Docker, Kubernetes
+9. Leading, communicating, mentoring and general baby kissing
 
 🍎 ... learning Web3 and getting my arms dirty right up to the elbows! 🍎
 
