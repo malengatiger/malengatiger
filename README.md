@@ -9,7 +9,9 @@ I enjoy building business solutions on Google's Cloud Platform. I like to sling 
 6. Enterprise Blockchains (Corda, Stellar)
 7. GCP (PubSub, Dataflow, BigQuery, Kubernetes, MicroServics, Cloud Functions etc.)
 8. Docker, Kubernetes
-9. Leading, communicating, mentoring and general baby kissing
+9. Kafka
+10. React
+11. Leading, communicating, mentoring and general baby kissing
 
 🍎 ... learning Web3 and getting my arms dirty right up to the elbows! 🍎
 
