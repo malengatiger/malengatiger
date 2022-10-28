@@ -4,7 +4,7 @@ I enjoy building business solutions on Google's Cloud Platform. I like to sling 
 1. Springboot with Java
 2. NodeJS with TypeScript/JavaScript and Express
 3. NOSQL Databases (MongoDB, Cloud Firestore, DynamoDB)
-4. SQL Databses (MySQL, Postgres, Cloud SQL)
+4. SQL Databases (MySQL, Postgres, Cloud SQL)
 5. Mobile with Flutter and Firebase
 6. Enterprise & Public Blockchains (Corda, Stellar)
 7. GCP (PubSub, Dataflow, BigQuery, MicroServices, Cloud Run, Cloud Functions etc.)
