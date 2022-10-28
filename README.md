@@ -5,15 +5,15 @@ I enjoy building business solutions on Google's Cloud Platform. I like to sling 
 2. NodeJS with TypeScript/JavaScript
 3. NOSQL Databases (MongoDB, Cloud Firestore, DynamoDB)
 4. SQL Databses (MySQL, Postgres, Cloud SQL)
-5. Flutter with Firebase
+5. Mobile with Flutter and Firebase
 6. Enterprise & Public Blockchains (Corda, Stellar)
-7. GCP (PubSub, Dataflow, BigQuery, MicroServices, Cloud Functions etc.)
+7. GCP (PubSub, Dataflow, BigQuery, MicroServices, Cloud Run, Cloud Functions etc.)
 8. Docker, Kubernetes
 9. Kafka
 10. React
 11. Leading, communicating, mentoring and general baby kissing
 
-🍎 ... learning Web3 and getting my arms dirty right up to the elbows! 🍎
+🍎 ... getting my head (and my arms) around Machine Learning! 🍎
 
 ## My GCP Professional Cloud Certifications 👋 👋
 [Check out the credentials here](https://www.credential.net/profile/aubreymalabie28641/wallet#gs.0jed0y)
