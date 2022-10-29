@@ -10,8 +10,7 @@ I enjoy building business solutions on Google's Cloud Platform. I like to sling 
 7. GCP (PubSub, Dataflow, BigQuery, MicroServices, Cloud Run, Cloud Functions etc.)
 8. Docker, Kubernetes
 9. Kafka
-10. React
-11. Leading, communicating, mentoring and general baby kissing
+10. Leading, communicating, mentoring and general baby kissing
 
 🍎 ... getting my head (and my arms) around Machine Learning! 🍎
 
