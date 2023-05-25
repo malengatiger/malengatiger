@@ -17,7 +17,7 @@ I am an experienced and passionate software engineer with a knack for building r
 9. Kafka
 10. Leading, communicating, mentoring and general baby kissing
 
-🍎 ... getting my head (and my arms) around Machine Learning! 🍎
+🍎 ... getting my head (and my arms) around AI assisted coding! 🍎
 
 ## My GCP Professional Cloud Certifications 👋 👋
 
