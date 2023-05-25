@@ -1,4 +1,7 @@
-I enjoy building business solutions on Google's Cloud Platform. I like to sling microservices, databases, data pipelines and data warehouses to design and construct secure, reliable and scalable applications and services on GCP.  
+
+#Building software that doesn't just work, but makes users do a happy dance. It's all about that customer joy-factor!
+
+I am an experienced and passionate software engineer with a knack for building remarkable digital experiences. Armed with expertise in Google Cloud, Java, Flutter, and a strong command of NOSQL and SQL databases, I have successfully delivered projects for corporate clients, government agencies, and startups alike. My love for software development goes beyond just writing code; it's about crafting innovative solutions that make a real impact. I thrive on the thrill of tackling complex challenges and transforming ideas into scalable, efficient, and user-friendly applications. With a hunger for learning new technologies and staying up-to-date with industry trends, I am constantly expanding my skill set to deliver cutting-edge solutions. I believe that software development is not just a job, but a creative journey where passion and technical expertise come together to shape the future. Let's build something amazing together
 
 ## My skills and experience include the following:
 1. Springboot with Java
