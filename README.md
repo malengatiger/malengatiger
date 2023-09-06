@@ -24,5 +24,5 @@ I am an experienced and passionate software engineer with a knack for building r
 [Verify the GCP Professional Cloud Architect Certification](https://www.credential.net/639a436a-58dd-4f27-8720-31bd79836c93?key=449eefa5bc8a3bb4cb29c8cba04acfa62d698b52f7afcbe2209fbdb31f4b3df3)
 
 [Verify the GCP Professional Data Engineer Certification](https://www.credential.net/5e605a5b-4b1c-4380-8024-deb34f975f86?key=6714f2885cf5bd5d43f2779db3e99d80c5db226942292c9392489a702e9664dd#gs.101v3ak)
-# A current project ....
+## A current project ....
 <img width="1906" alt="collage2" src="https://github.com/malengatiger/malengatiger/assets/343710/be34e0ec-c5da-4e80-8937-f7c072b580e1">
