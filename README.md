@@ -5,10 +5,10 @@ I am an experienced and passionate software engineer with a knack for building s
 
 ## My skills and experience include the following:
 1. Springboot with Java
-2. NodeJS with TypeScript/JavaScript and Express
+2. NodeJS with NestJS, TypeScript and Express
 3. NOSQL Databases (MongoDB, Cloud Firestore, DynamoDB)
 4. SQL Databases (MySQL, Postgres, Cloud SQL)
-5. Mobile with Flutter and Firebase
+5. Mobile Engineering with Flutter and Firebase
 6. GCP (PubSub, Dataflow, BigQuery, MicroServices, Cloud Run, Cloud Functions etc.)
 7. Docker, Kubernetes
 8. Leading, communicating, mentoring and general baby kissing
