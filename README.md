@@ -8,7 +8,7 @@ I am an experienced and passionate software engineer with a knack for building s
 2. NodeJS with NestJS, TypeScript and Express
 3. NOSQL Databases (MongoDB, Cloud Firestore, DynamoDB)
 4. SQL Databases (MySQL, PostgreSQL, Cloud SQL)
-5. Mobile Engineering with Flutter and Firebase
+5. Mobile Engineering with Flutter and Firebase, native Android with Kotlin and iOS with SwiftUI
 6. GCP (PubSub, Dataflow, BigQuery, MicroServices, Cloud Run, Cloud Functions etc.)
 7. AWS (DynamoDB, S3, EC2, Lamda, RDS, Amplify)
 8. Docker, Kubernetes
