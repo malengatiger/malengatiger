@@ -4,15 +4,15 @@
 I am an experienced and passionate software engineer with a knack for building solid digital experiences. Armed with expertise in Google Cloud, Java, Flutter, and a strong command of NOSQL and SQL databases, I have successfully delivered projects for corporate clients, government agencies, and startups alike. My love for software development goes beyond just writing code; it's about crafting innovative solutions that make a real impact. I thrive on the thrill of tackling complex challenges and transforming ideas into scalable, efficient, and user-friendly applications. With a hunger for learning new technologies and staying up-to-date with industry trends, I am constantly expanding my skill set to deliver cutting-edge solutions. I believe that software development is not just a job, but a creative journey where passion and technical expertise come together to create digital stuff that enhances the lives of people and businesses. 
 
 ## My skills and experience include the following:
-1. Springboot with Java
-2. NodeJS with NestJS, TypeScript and Express
-3. NOSQL Databases (MongoDB, Cloud Firestore, DynamoDB)
-4. SQL Databases (MySQL, PostgreSQL, Cloud SQL)
-5. Mobile Engineering with Flutter and Firebase, native Android with Kotlin and iOS with SwiftUI
-6. GCP (PubSub, Dataflow, BigQuery, MicroServices, Cloud Run, Cloud Functions etc.)
-7. AWS (DynamoDB, S3, EC2, Lamda, RDS, Amplify)
-8. Docker, Kubernetes
-9. GraphQL
+1. AI Chatbot Development with OpenAI, Gemini and Mistral
+2. Springboot with Java
+3. NodeJS with NestJS, TypeScript and Express
+4. NOSQL Databases (MongoDB, Cloud Firestore, DynamoDB)
+5. SQL Databases (MySQL, PostgreSQL, Cloud SQL)
+6. Mobile Engineering with Flutter and Firebase, native Android with Java and iOS with SwiftUI
+7. Google Cloud Platform (PubSub, Dataflow, BigQuery, MicroServices, Cloud Run, Cloud Functions etc.)
+8. AWS (DynamoDB, S3, EC2, Lamda, RDS, Amplify)
+9. Docker, Kubernetes
 10. Leading, communicating, mentoring and general baby kissing
 
 🍎 ... getting my head (and my arms) around AI assisted coding! 🍎
