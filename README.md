@@ -33,4 +33,8 @@ I am an experienced and passionate software engineer with a knack for building s
 SgelaAI embodies cutting-edge technology across its diverse tech stack, blending the robustness of GCP-deployed Java Spring Boot and NodeJS backends with the versatility of Flutter apps spanning iOS, Android, and Web platforms. This amalgamation enables seamless communication and interaction between users and the platform. Leveraging multiple large language models (LLMs) such as OpenAI, Gemini, Claude, and Mistral, SgelaAI delivers unparalleled educational support, offering students and teachers instant access to exam-related information and personalized learning experiences. 
 
 ## KasieTransie Informal Taxi Platform ....
-<img width="1906" alt="KasieTransie Taxi Platform" src="https://github.com/malengatiger/malengatiger/assets/343710/be34e0ec-c5da-4e80-8937-f7c072b580e1">
+<img width="1906" alt="KasieTransie Taxi Platform" src="https://github.com/malengatiger/malengatiger/assets/343710/be34e0ec-c5da-4e80-8937-f7c072b580e1">  
+
+## SgelaAI Sponsor App
+<img width="1040" alt="Screenshot 2024-03-08 at 11 15 48" src="https://github.com/malengatiger/malengatiger/assets/343710/f98f1da9-ec8d-4d61-b88f-afec7e44df92">
+
